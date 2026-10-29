@@ -4,7 +4,7 @@ import "fmt"
 
 func main() {
 	var nilaiAkhir = 90
-	var absensi = 81
+	var absensi = 82
 
 	var lulusNilaiAkhir bool = nilaiAkhir > 80
 	var lulusAbsensi bool = absensi > 80
